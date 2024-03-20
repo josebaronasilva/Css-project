@@ -1,4 +1,4 @@
-.menu {background-color: black;color: white;text-align: center;padding: 10px 0; text-decoration: underline;}
+.menu {background-color: purple;color: white;text-align: center;padding: 10px 0; text-decoration: underline;}
 .menu ul {list-style-type: none;padding: 0;}
 .menu ul li {display: inline;margin-right: 20px;}
 .menu ul li a {color: white;text-decoration:double; text-align: center;font-style: italic;}
